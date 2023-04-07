@@ -7,10 +7,8 @@ if /i %input%==2 goto 2
 if /i %input%==3 goto 3
 
 :2
-echo, are you sure(exit to cancel)
 start hgfksbgfhngsound.m4a
 start hgfksbgfhnj.exe.exe
 :1
-echo, are you sure(exit to cancel)
 start flouroantimonicacid.exe
 
