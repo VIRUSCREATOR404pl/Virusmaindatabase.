@@ -1,1 +1,2 @@
 # Virusmaindatabase.
+run virus.bat
